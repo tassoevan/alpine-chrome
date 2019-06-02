@@ -1,5 +1,5 @@
 {
-  "name": "zenika-alpinechrome-withpuppeteer",
+  "name": "chinello-alpinechrome-withpuppeteer",
   "version": "1.0.0",
   "description": "Tests with puppeteer",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenika/alpine-chrome.git"
+    "url": "git+https://github.com/sampaiodiego/alpine-chrome.git"
   },
   "author": "jlandure",
   "license": "MIT",

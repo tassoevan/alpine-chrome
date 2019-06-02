@@ -7,10 +7,10 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.description="Chrome running in headless mode in a tiny Alpine image" \
       org.label-schema.name="alpine-chrome" \
       org.label-schema.schema-version="1.0.0-rc1" \
-      org.label-schema.usage="https://github.com/Zenika/alpine-chrome/blob/master/README.md" \
-      org.label-schema.vcs-url="https://github.com/Zenika/alpine-chrome" \
+      org.label-schema.usage="https://github.com/sampaiodiego/alpine-chrome/blob/master/README.md" \
+      org.label-schema.vcs-url="https://github.com/sampaiodiego/alpine-chrome" \
       org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.vendor="Zenika" \
+      org.label-schema.vendor="Diego Sampaio" \
       org.label-schema.version="latest"
 
 # Installs latest Chromium package.

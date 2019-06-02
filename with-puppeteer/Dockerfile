@@ -1,4 +1,4 @@
-FROM zenika/alpine-chrome:with-node
+FROM chinello/alpine-chrome:with-node
 
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD 1
 ENV PUPPETEER_EXECUTABLE_PATH /usr/bin/chromium-browser
