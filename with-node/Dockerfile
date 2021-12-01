@@ -1,7 +1,7 @@
-FROM chinello/alpine-chrome
+FROM chinello/alpine-chrome:latest
 
 USER root
-RUN apk add --no-cache tini make gcc g++ python git nodejs nodejs-npm yarn \
+RUN apk add --no-cache tini make gcc g++ python3 git nodejs npm yarn \
     && rm -rf /var/lib/apt/lists/* \
     /var/cache/apk/* \
     /usr/share/man \
