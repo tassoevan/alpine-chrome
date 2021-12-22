@@ -1,4 +1,1 @@
-**/*.pdf
-**/*.png
-**/node_modules
-hooks/
+.scripts
