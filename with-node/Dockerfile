@@ -1,4 +1,4 @@
-FROM chinello/alpine-chrome:latest
+FROM tassoevan/alpine-chrome:latest
 
 USER root
 RUN apk add --no-cache tini make gcc g++ python3 git nodejs npm yarn \
